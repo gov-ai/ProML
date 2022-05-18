@@ -15,7 +15,8 @@
 #### 1.1.1. Ordinary Least Square 
 
 > **Detour**
->  - [R-squared (coefficient of determination) and Adjusted R-Squared score](https://excalidraw.com/#json=vhWfaD5v_fdHjDh8oBtaS,mLix-LNId2pfmu0gVll5DQ)
+> - [SSR, SSE & SST Explained visually](https://excalidraw.com/#json=vhWfaD5v_fdHjDh8oBtaS,mLix-LNId2pfmu0gVll5DQ)
+> - [Good blog / read on R-squared score and Adj. R-squared score](https://365datascience.com/tutorials/statistics-tutorials/r-squared/)
 
 ```mermaid
 classDiagram
