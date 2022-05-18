@@ -14,6 +14,9 @@
 
 #### 1.1.1. Ordinary Least Square 
 
+Detour:
+	- [R-squared (coefficient of determination) and Adjusted R-Squared score](https://excalidraw.com/#json=vhWfaD5v_fdHjDh8oBtaS,mLix-LNId2pfmu0gVll5DQ)
+
 ```mermaid
 classDiagram
   class ndarray {
