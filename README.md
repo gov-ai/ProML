@@ -17,6 +17,8 @@
 > **Detour**
 > - [SSR, SSE & SST Explained visually](https://excalidraw.com/#json=vhWfaD5v_fdHjDh8oBtaS,mLix-LNId2pfmu0gVll5DQ)
 > - [Good blog / read on R-squared score and Adj. R-squared score](https://365datascience.com/tutorials/statistics-tutorials/r-squared/)
+>   - When should we <span style="color: red;">not</span> use R sq. score?
+>   - When should we use Adj. R Sq. score?
 > - [Bending a linear regression line using polynomial feaures & bias-variance tradeoff](https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html)
 
 ```mermaid
